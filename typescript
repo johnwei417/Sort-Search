@@ -1,0 +1,75 @@
+Script started on Wed Feb 13 19:32:21 2019
+[?1034hbash-3.2$ make test[K[2Plscd a0[3Plscd desktop[1Psktop[3Pscriptmake test[K[K[K[K[K[K[K[K[Kmake
+gcc -Wall -Wpedantic -std=c99 *.c -g -o 3240Assignment0
+bash-3.2$ make file[K[K[K[K[K test
+./3240Assignment0 < test-input.txt
+After Sorting by Song Name:
+*****************USER INTERFACE**********************
+********************************************
+Song Title: We're Not Gonna Bow 
+Artist Name: "Jeff And Sheri Easter" | Album Name: "Ordinary Day" |
+Duration: 222.928530 | Year of Release: 0 | Hotttnesss: 0.240821
+
+********************************************
+Song Title: Deep Sea Creature 
+Artist Name: "Mastodon" | Album Name: "Call of the Mastodon" |
+Duration: 280.215060 | Year of Release: 2001 | Hotttnesss: 0.597641
+
+********************************************
+Song Title: Stand By Me 
+Artist Name: "Atomic Rooster" | Album Name: "Made In England" |
+Duration: 203.310570 | Year of Release: 1972 | Hotttnesss: nan
+
+********************************************
+Song Title: Ralph's Rhapsody 
+Artist Name: "Ray Lynch" | Album Name: "The Best Of Ray Lynch" |
+Duration: 283.741590 | Year of Release: 1998 | Hotttnesss: 0.547953
+
+********************************************
+Song Title: Don't Mess With the IRS 
+Artist Name: "Dr. Elmo" | Album Name: "Love Death & Taxes" |
+Duration: 159.320360 | Year of Release: 0 | Hotttnesss: nan
+
+********************************************
+Song Title: (null) 
+Artist Name: (null) | Album Name: (null) |
+Duration: 0.000000 | Year of Release: 0 | Hotttnesss: 0.000000
+
+********************************************
+Song Title: Too Many Choices 
+Artist Name: "Bad Azz" | Album Name: "Personal Business (Explicit)" |
+Duration: 285.935870 | Year of Release: 0 | Hotttnesss: 0.405116
+
+********************************************
+Song Title: These Days 
+Artist Name: "Take It Back!" | Album Name: "Can't Fight Robots" |
+Duration: 204.904040 | Year of Release: 2008 | Hotttnesss: 0.447136
+
+********************************************
+Song Title: Armageddon's Raid 
+Artist Name: "Belphegor" | Album Name: "Bondage Goat Zombie" |
+Duration: 308.766890 | Year of Release: 2008 | Hotttnesss: 0.624840
+
+********************************************
+Song Title: Single Ladies (Put A Ring On It) 
+Artist Name: "Beyoncé" | Album Name: "Single Ladies (Put A Ring On It) - Dance Remixes" |
+Duration: 466.050160 | Year of Release: 2008 | Hotttnesss: nan
+
+********************************************
+Song Title: Get On Top (Album Version) 
+Artist Name: "Red Hot Chili Peppers" | Album Name: "Californication" |
+Duration: 198.059950 | Year of Release: 1999 | Hotttnesss: nan
+
+********************************************
+Song Title: Rudeboy 
+Artist Name: "Aswad" | Album Name: "Aswad vs. The Rhythm Riders" |
+Duration: 258.428930 | Year of Release: 0 | Hotttnesss: nan
+
+********************************************
+
+Exiting....
+DONE! THANK YOU SO MUCH
+bash-3.2$ exit
+exit
+
+Script done on Wed Feb 13 19:32:49 2019
